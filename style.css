@@ -86,6 +86,11 @@ body {
 
 }
 
+.note .details {
+    max-height: 165px;
+    overflow-y: auto;
+}
+
 .bottom-content span {
     color: #6d6d6d;
     font-size: 14px;
